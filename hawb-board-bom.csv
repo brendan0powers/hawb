@@ -1,0 +1,37 @@
+Value	Parts	Device	Solder Type	Part Number	Manufacturer
+	U2	ADC ADS1015	SMT/SMD		
+0.1uF	C2, C6, C7, C8, C11	Cap 0603	SMT/SMD		
+10nF	C4	Cap 0603	SMT/SMD		
+1nF	C5	Cap 0603	SMT/SMD		
+2.2nF	C3	Cap 0603	SMT/SMD		
+100uF 25V	C9	CAP POL	SMT/SMD		
+22uF 25V	C1, C10	CAP POL	SMT/SMD		
+	U$4	DS1820SOIC Temp Sensor	SMT/SMD		
+	IC3, IC4	Dual Opamp	SMT/SMD		
+	LED1, LED2	LED1206	SMT/SMD		
+	U1	MPU-6050-1 Accel/Gyro	SMT/SMD		
+	Q1, Q2	N-MOSFET Dpack	SMT/SMD		
+	Q3, Q4, Q5, Q6	N-MOSFET SOT-23-3	SMT/SMD		
+110 Ohm	R26	Resistor 0603	SMT/SMD		
+470 Ohm	R25	Resistor 0603	SMT/SMD		
+100k	R5, R12, R13, R14, R15, R23	Resistor 0603	SMT/SMD		
+10k	R20, R21, R22	Resistor 0603	SMT/SMD		
+11K	R16	Resistor 0603	SMT/SMD		
+22k	R7	Resistor 0603	SMT/SMD		
+27k	R6, R11	Resistor 0603	SMT/SMD		
+2k	R1, R4, R10, R17, R18, R19	Resistor 0603	SMT/SMD		
+30k	R3	Resistor 0603	SMT/SMD		
+33k	R24	Resistor 0603	SMT/SMD		
+4.7k	R9	Resistor 0603	SMT/SMD		
+4.88k	R8	Resistor 0603	SMT/SMD		
+75k	R2	Resistor 0603	SMT/SMD		
+	IC1	Switching Regulator 3.3V	SMT/SMD		
+	IC2	Switching Regulator 5V 	SMT/SMD		
+	SK1	Header 6pin	Through Hole		
+	M2	HX1 Radio	Through Hole		
+	JP3, JP20, JP21, JP22	JST Vertical 2Pin	Through Hole		
+	JP5, JP6, JP8, JP9, JP10, JP11	JST Vertical 3Pin	Through Hole		
+	JP12, JP13, JP14, JP15, JP16, JP17, JP23	JST Vertical 4Pin	Through Hole		
+	JP7, JP18, JP19	Molex Vert 2Pin	Through Hole		
+	X1	SMA Connector	Through Hole		
+	U$7	Switching Regulator 1.8V 	Through Hole		
