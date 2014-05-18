@@ -1,37 +1,39 @@
-Value	Parts	Device	Solder Type	Part Number	Manufacturer
-	U2	ADC ADS1015	SMT/SMD		
-0.1uF	C2, C6, C7, C8, C11	Cap 0603	SMT/SMD		
-10nF	C4	Cap 0603	SMT/SMD		
-1nF	C5	Cap 0603	SMT/SMD		
-2.2nF	C3	Cap 0603	SMT/SMD		
-100uF 25V	C9	CAP POL	SMT/SMD		
-22uF 25V	C1, C10	CAP POL	SMT/SMD		
-	U$4	DS1820SOIC Temp Sensor	SMT/SMD		
-	IC3, IC4	Dual Opamp	SMT/SMD		
-	LED1, LED2	LED1206	SMT/SMD		
-	U1	MPU-6050-1 Accel/Gyro	SMT/SMD		
-	Q1, Q2	N-MOSFET Dpack	SMT/SMD		
-	Q3, Q4, Q5, Q6	N-MOSFET SOT-23-3	SMT/SMD		
-110 Ohm	R26	Resistor 0603	SMT/SMD		
-470 Ohm	R25	Resistor 0603	SMT/SMD		
-100k	R5, R12, R13, R14, R15, R23	Resistor 0603	SMT/SMD		
-10k	R20, R21, R22	Resistor 0603	SMT/SMD		
-11K	R16	Resistor 0603	SMT/SMD		
-22k	R7	Resistor 0603	SMT/SMD		
-27k	R6, R11	Resistor 0603	SMT/SMD		
-2k	R1, R4, R10, R17, R18, R19	Resistor 0603	SMT/SMD		
-30k	R3	Resistor 0603	SMT/SMD		
-33k	R24	Resistor 0603	SMT/SMD		
-4.7k	R9	Resistor 0603	SMT/SMD		
-4.88k	R8	Resistor 0603	SMT/SMD		
-75k	R2	Resistor 0603	SMT/SMD		
-	IC1	Switching Regulator 3.3V	SMT/SMD		
-	IC2	Switching Regulator 5V 	SMT/SMD		
-	SK1	Header 6pin	Through Hole		
-	M2	HX1 Radio	Through Hole		
-	JP3, JP20, JP21, JP22	JST Vertical 2Pin	Through Hole		
-	JP5, JP6, JP8, JP9, JP10, JP11	JST Vertical 3Pin	Through Hole		
-	JP12, JP13, JP14, JP15, JP16, JP17, JP23	JST Vertical 4Pin	Through Hole		
-	JP7, JP18, JP19	Molex Vert 2Pin	Through Hole		
-	X1	SMA Connector	Through Hole		
-	U$7	Switching Regulator 1.8V 	Through Hole		
+Value	Parts	Device	Solder Type	Part Number	Qty	Source
+	U2	ADC ADS1015	SMT/SMD	595-ADS1015IDGST	1	Mouser
+0.1uF	C2, C6, C7, C8, C11	Cap 0603	SMT/SMD	81-GCM188R71H103KA7D	5	Mouser
+10nF	C4	Cap 0603	SMT/SMD	81-GRM39X103K25	1	Mouser
+1nF	C5	Cap 0603	SMT/SMD	81-GRM1885C1E102FA	1	Mouser
+2.2nF	C3	Cap 0603	SMT/SMD	81-GCM188R71E223KA7D	1	Mouser
+100uF 25V	C9	CAP POL	SMT/SMD	661-EMVY250ADA101MF8	1	Mouser
+22uF 25V	C1, C10	CAP POL	SMT/SMD	667-EEE-1EA220WR	1	Mouser
+	U$4	DS1820SOIC Temp Sensor	SMT/SMD	700-DS18S20Z	1	Mouser
+	IC3, IC4	Dual Opamp	SMT/SMD	511-TS922IDT	2	Mouser
+	LED1, LED2	LED1206	SMT/SMD	696-SML-1206GCTR1	2	Mouser
+	U1	MPU-6050-1 Accel/Gyro	SMT/SMD	1428-1007-1-ND	1	Digi-Key
+	Q1, Q2	N-MOSFET Dpack	SMT/SMD	512-FDD5353	2	Mouser
+	Q3, Q4, Q5, Q6	N-MOSFET SOT-23-3	SMT/SMD	942-IRLML6344TRPBF	4	Mouser
+110 Ohm	R26	Resistor 0603	SMT/SMD	71-CRCW0603-110-E3	1	Mouser
+470 Ohm	R25	Resistor 0603	SMT/SMD	71-CRCW0603-470-E3	1	Mouser
+100k	R5, R12, R13, R14, R15, R23	Resistor 0603	SMT/SMD	71-CRCW0603-100K-E3	6	Mouser
+10k	R20, R21, R22	Resistor 0603	SMT/SMD	667-ERA-3AED103V	3	Mouser
+11K	R16	Resistor 0603	SMT/SMD	71-CRCW0603-11K-E3	1	Mouser
+22k	R7	Resistor 0603	SMT/SMD	71-CRCW0603-22K-E3	1	Mouser
+27k	R6, R11	Resistor 0603	SMT/SMD	71-CRCW0603-27K-E3	2	Mouser
+2k	R1, R4, R10, R17, R18, R19	Resistor 0603	SMT/SMD	71-CRCW0603-2.0K-E3	6	Mouser
+30k	R3	Resistor 0603	SMT/SMD	71-CRCW0603-30K-E3	1	Mouser
+33k	R24	Resistor 0603	SMT/SMD	71-CRCW0603-33K-E3	1	Mouser
+4.88k	R8, R9	Resistor 0603	SMT/SMD	71-CRCW0603-4.87K-E3	2	Mouser
+75k	R2	Resistor 0603	SMT/SMD	71-CRCW0603-75K-E3	1	Mouser
+	IC1	Switching Regulator 3.3V	Through Hole	1470-2253-5-ND	1	Digi-Key
+	IC2	Switching Regulator 5V 	Through Hole	1470-2249-5-ND	1	Digi-Key
+	SK1	Header 26pin	Through Hole	517-929836-01-13	1	Mouser
+	M2	HX1 Radio	Through Hole	HX1	1	Radiometrix
+	JP3, JP20, JP21, JP22	JST Vertical 2Pin	Through Hole	455-1704-ND	4	Digi-Key
+	JP5, JP6, JP8, JP9, JP10, JP11	JST Vertical 3Pin	Through Hole	455-1705-ND	6	Digi-Key
+	JP12, JP13, JP14, JP15, JP16, JP17, JP23	JST Vertical 4Pin	Through Hole	455-1706-ND	7	Digi-Key
+	JP7, JP18, JP19	Molex Vert 2Pin	Through Hole	538-22-23-2021	3	Mouser
+	X1	SMA Connector	Through Hole	678-961A514	1	Mouser
+	U$7	Switching Regulator 1.8V 	SMT/SMD	894-APXS003A0X4-SRZ	1	Mouser
+						
+					75	
+Total						

@@ -1986,7 +1986,7 @@ Please make sure your boards conform to these design rules.</description>
 <element name="U$4" library="Ava" package="DS18B20_SOIC" value="DS1820SOIC" x="59.69" y="41.275" rot="R180"/>
 <element name="C2" library="sparkfun" package="0402-CAP" value="0.1uF" x="68.58" y="38.735" rot="R180"/>
 <element name="C3" library="sparkfun" package="0402-CAP" value="2.2nF" x="76.835" y="39.243" rot="R270"/>
-<element name="C4" library="sparkfun" package="0402-CAP" value="10nF" x="68.58" y="41.783" rot="R180"/>
+<element name="C4" library="sparkfun" package="0402-CAP" value="10nF" x="68.199" y="41.783" rot="R180"/>
 <element name="U1" library="Testing" package="QFN-24-4MM2" value="MPU-6050-1" x="73.025" y="40.64" rot="R270"/>
 <element name="IC3" library="sparkfun" package="SO08" value="OPAMP-DUALU" x="17.78" y="68.58" smashed="yes" rot="R90">
 <attribute name="VALUE" x="18.415" y="67.31" size="0.4064" layer="27" rot="R90"/>
@@ -2380,10 +2380,6 @@ Please make sure your boards conform to these design rules.</description>
 <contactref element="SK1" pad="2"/>
 <wire x1="19.812" y1="41.91" x2="22.352" y2="41.91" width="1.016" layer="1"/>
 <wire x1="19.812" y1="41.91" x2="16.217" y2="41.91" width="1.016" layer="1"/>
-<wire x1="47.244" y1="19.304" x2="45.847" y2="17.907" width="0.254" layer="1"/>
-<wire x1="45.847" y1="17.907" x2="45.847" y2="13.081" width="0.254" layer="1"/>
-<wire x1="45.847" y1="13.081" x2="46.355" y2="12.573" width="0.254" layer="1"/>
-<wire x1="46.355" y1="12.573" x2="49.53" y2="12.573" width="0.254" layer="1"/>
 <contactref element="C7" pad="1"/>
 <wire x1="6.819" y1="41.783" x2="6.819" y2="40.8704" width="0.254" layer="1"/>
 <wire x1="6.819" y1="40.8704" x2="6.9732" y2="40.7162" width="0.254" layer="1"/>
@@ -2789,7 +2785,7 @@ Please make sure your boards conform to these design rules.</description>
 <contactref element="U1" pad="8"/>
 <contactref element="C4" pad="1"/>
 <wire x1="70.9034" y1="41.4021" x2="69.3571" y2="41.4021" width="0.254" layer="1"/>
-<wire x1="69.3571" y1="41.4021" x2="69.23" y2="41.783" width="0.254" layer="1"/>
+<wire x1="69.3571" y1="41.4021" x2="68.849" y2="41.783" width="0.254" layer="1"/>
 </signal>
 <signal name="N$11">
 <contactref element="R6" pad="2"/>
@@ -3202,7 +3198,6 @@ Please make sure your boards conform to these design rules.</description>
 <wire x1="75.565" y1="43.942" x2="64.897" y2="43.942" width="0.254" layer="1"/>
 <wire x1="64.897" y1="43.942" x2="62.865" y2="41.91" width="0.254" layer="1"/>
 <wire x1="60.96" y1="71.882" x2="60.92825" y2="71.91375" width="1.016" layer="1"/>
-<wire x1="66.587" y1="16.93" x2="62.23" y2="12.573" width="0.254" layer="1"/>
 </signal>
 <signal name="N$27">
 <contactref element="R25" pad="2"/>
